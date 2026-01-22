@@ -1,6 +1,6 @@
 # NLP Lab 4: Core Natural Language Processing Tasks
 
-**Author:** yoroba93
+**Author:** divishathred-ops
 **Course:** Natural Language Processing
 
 ## 📖 Introduction
